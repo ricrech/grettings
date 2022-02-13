@@ -1,2 +1,7 @@
 .gitignore
+git_learning.iml
+misc.xml
+modules.xml
+profiles_settings.xml
+vcs.xml
 scratch.py
